@@ -1,5 +1,5 @@
 +++
-title = "about" 
+url = "/"
 [menu.main]
 weight = 20
 +++

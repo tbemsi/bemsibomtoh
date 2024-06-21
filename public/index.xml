@@ -23,10 +23,10 @@
       <description>New essay This is a new essay</description>
     </item>
     <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <title></title>
+      <link>http://localhost:1313/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/</guid>
       <description>Why am I a good boy</description>
     </item>
   </channel>

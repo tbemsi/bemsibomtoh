@@ -1,6 +1,6 @@
 +++
 title = "technical blog" 
-url = '/'
+url = "/techblog"
 menu = "main"
 weight = 5
 +++

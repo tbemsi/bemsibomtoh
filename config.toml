@@ -5,6 +5,4 @@ theme = 'hugo-bearblog'
 
 enableRobotsTXT = true
 
-[params]
-    mainSections=["techblog", "essays", "about"]
 
