@@ -1,4 +1,10 @@
 baseURL = 'https://bemsibomtoh.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bemsibom Toh'
 theme = 'hugo-bearblog'
+
+enableRobotsTXT = true
+
+[params]
+    mainSections=["techblog", "essays", "about"]
+

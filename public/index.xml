@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Bemsibom Toh</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Bemsibom Toh</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 16:10:18 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A gentle intro to Airflow</title>
+      <link>http://localhost:1313/techblog/sample/</link>
+      <pubDate>Fri, 21 Jun 2024 16:10:18 +0100</pubDate>
+      <guid>http://localhost:1313/techblog/sample/</guid>
+      <description>So this is what airflow does</description>
+    </item>
+    <item>
+      <title>Nothing new under the sun</title>
+      <link>http://localhost:1313/essays/testessay/</link>
+      <pubDate>Fri, 21 Jun 2024 16:10:18 +0100</pubDate>
+      <guid>http://localhost:1313/essays/testessay/</guid>
+      <description>New essay This is a new essay</description>
+    </item>
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Why am I a good boy</description>
+    </item>
   </channel>
 </rss>
