@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 21 Jun 2024 16:10:18 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hi there, my name is Bemsibom, but most people call me Bemsi. I was born and raised in Cameroon, but have lived in a few different places, including Nigeria, Ghana, the UAE, France, Belgium, and now the UK.&#xA;My academic background is in probability theory - I completed a PhD in Mathematics at Heriot-Watt University in Edinburgh, and then was a postdoctoral resesarch scientist at the University of Cambridge for a couple of years.</description>
+    </item>
+    <item>
       <title>A gentle intro to Airflow</title>
       <link>http://localhost:1313/techblog/sample/</link>
       <pubDate>Fri, 21 Jun 2024 16:10:18 +0100</pubDate>
@@ -203,13 +210,6 @@
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       <guid>http://localhost:1313/essays/aging/</guid>
       <description>I was born into a world where people celebrate birthdays. The exact reason I wonder sometimes, but I guess most people do so because it&amp;rsquo;s kind of a milestone… a celebration of life, a rite of passage to old age?&#xA;Today, I think about age, and what it represents. For the most part, age comes with wisdom ; a certain perspective, ripeness, gravitas. A sense of grounding in reality. When we are young, everybody believes in us.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/</guid>
-      <description>Why am I a good boy</description>
     </item>
   </channel>
 </rss>
